@@ -127,7 +127,7 @@ export default function HomePage() {
                 alt="أ/مصطفي المهيلي"
                 fill
                 priority
-                className="object-cover rounded-full border-4 border-brand/20 shadow-lg object-[60%_10%]"
+                className="object-cover rounded-full border-4 border-brand/20 shadow-lg object-[50%_20%]"
                 sizes="(max-width: 768px) 256px, 320px"
               />
             </div>
